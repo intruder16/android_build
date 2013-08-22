@@ -27,11 +27,15 @@ PRODUCT_PACKAGES += \
     BackupRestoreConfirmation \
     BasicDreams \
     Browser \
+    CellBroadcastReceiver \
     Contacts \
     ContactsProvider \
+    DashClock \
     DefaultContainerService \
     DownloadProvider \
     DownloadProviderUi \
+    Email \
+    Exchange \
     HTMLViewer \
     Home \
     KeyChain \
@@ -39,10 +43,16 @@ PRODUCT_PACKAGES += \
     PackageInstaller \
     PicoTts \
     SettingsProvider \
+    SlimCenter \
+    SlimFileManager \
     SharedStorageBackup \
+    Stk \
     TelephonyProvider \
+    ThemeChooser \
+    ThemeManager \
     UserDictionaryProvider \
     VpnDialogs \
+    VoicePlus \
     abcc \
     apache-xml \
     atrace \
